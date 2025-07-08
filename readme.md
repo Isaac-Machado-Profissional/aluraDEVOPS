@@ -75,4 +75,4 @@ gcloud run deploy --port=8000
 ## Link para você testar a aplicação da API final:
 
 Certifique-se de que está no /docs!
-[text](https://api-543490099515.southamerica-east1.run.app/docs)
+[[text](https://api-543490099515.southamerica-east1.run.app/docs)](https://api-543490099515.southamerica-east1.run.app/docs)
