@@ -1,4 +1,5 @@
-Palavra-chaves de cada aula para eu ter o acesso ao certificado aluraDEV:
+Palavra-chaves:
 
-- AULA01: MARVEL
-
+- 01: MARVEL
+- 02: Ellis
+- 03: YAML
